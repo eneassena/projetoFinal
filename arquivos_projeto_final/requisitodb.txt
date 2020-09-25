@@ -1,0 +1,42 @@
+	Sistema web (Pastelaria Do Gaucho)
+	
+	O cliente solicitou a criação de um sistema web para atender 
+sua demanda de pedidos e automatização do seu canal de comunicação, 
+pois ate o momento o pedido de seus lanches é feito pelo whatsApp, 
+causando congestionamento no atendimento. O projeto cobrirá
+uma nova modelagem do sistema web ja existente e incluindo pedido pelo proprio site, 
+sendo possivel ver cardapios do dia, bairros de entrega em relação ao pagamento foi 
+solicitado que não seja feito pelo site. O cliente que fizer seu pedido fará o pagamento(R$ x.xx) 
+no momento em que receber seu pedido ou paga na propria loja fisica, o cliente 
+também acompanhará seu pedido atravéz de um canal de comunicação.
+
+obs: prescisamos ver quais bairros serão contemplados pelas entregas, também é presciso saber como 
+o cliente irá acompanhará seu pedido se será por (status, email, ligação e etc)
+
+Tabelas:
+	- bairros(salva bairro disponiveis)
+	- pastelariabase(salvar informação e dados referente a pastelaria)
+	- atendentes(dados do dispachante de pedidos)
+	- cliente(informações adicionais referente ao cliente)
+	- admin(aqui ficará dados referente ao gerenciamento do software)
+	- pedido(aqui será registrado cada pedido vindo dos clientes)
+	- cardapio(aqui ficará o cardapio de lanches disponivel para venda)
+	- bebidas(salvar todas bebidas disponiveis incluido suco, polpa ou da fruta, água refrigerante etc)
+	- vendas(aqui sera informações de relatório geral de cada venda feita para 
+	ajuda no gerenciamento de cada venda)
+	- caixa:[OPCIONAL]:(aqui será adicionado o que foi comprado e quanto custou)
+
+Ordem de precedencia de inserts nas tabelas
+
+	insere em livraria
+	insere em afilial com id-primary de livraria
+	insere em pessoa_livraria com id-primary de livraria
+	insere atendente com id-primary de pessoa_livraria
+	insere cliente com id-primary de atendente
+	insere venda com id-primary de cliente
+	insere artigo
+	insere chamada_cliente com id-primary de cliente e id-primary artigo
+	insere produto
+	insere artigo_produto com id-primary de artigo e id-primary produto
+	insere promocoes com id-primary de produto
+=================================================================================================

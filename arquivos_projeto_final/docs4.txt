@@ -1,0 +1,34 @@
+o requisito prescisa ser testavel e mensuravel
+
+tirar duvidas em relação a reunião de inspensão
+o que deve ser procurador o que dever se procura quando esta lendo ou estudando
+o documento com os requisito
+
+LGPD
+
+Testavel/ Mensuravel/ viável 
+teams
+
+variaveis(sistema web pastelaria){
+
+layout de pedido com cardapios para cada lanche
+solicitação de entrega 
+resposta ao cliente
+
+
+
+
+possivel layout 
+
+nav no top
+slides
+container no home
+rodape
+	
+
+
+
+
+}
+
+

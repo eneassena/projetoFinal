@@ -1,0 +1,52 @@
+ para pedir um lanche necessario
+
+nome do lanche
+ingredientes
+quantidade
+
+
+opção de bebida
+
+valor total que ira ucstar
+
+opção deseja solicitar entrega 
+	- não
+	- sim
+
+se sim 
+	mostra areas de cobertura de entregas
+	e o valor
+se nao 
+	o valor final prosegue sem taxa adicional 
+	
+	
+
+após o pedido ser realizado será armazenado e aparecerá 
+no cadastro do atendente um novo pedido
+com as informações incluindo solicitação para entrega
+
+o atendente pode muda o status do pedido para pedido visto
+ou enviar um email pro cliente
+ou ligar para o cliente
+
+
+tabelas
+pedido, bairros, cliente, atendente
+
+===================================
+
+tecnologias
+bootstrap
+html,css,javascript
+sql - mysql
+nodejs
+
+
+
+
+
+
+
+
+
+

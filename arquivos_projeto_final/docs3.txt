@@ -1,0 +1,35 @@
+Gestão de projeto
+
+pesquisa de campo
+
+etapa 1: Apresentação e contextualização
+etapa 2: Demandas e justificativas
+etapa 3: Proposta de desenvolvimento
+etapa 4: Identificação de variaveis 
+etapa 5: Idealização 
+etapa 6: Prototipação
+etapa 7: Testes
+etapa 8: Revisão e Entrega
+
+mapa de atores 
+
+Objetivo
+Reconhecer os atores envolvidos
+O papel do grupo 
+Os stakeholders
+
+ferramenta de campo 
+os 5 por ques(5W)Outros: Vivência, Analogia
+1: por qué?
+2: por qué?
+3: por qué?
+4: por qué?
+5: por qué?
+
+Objetivo encontrar a causa raiz
+
+Base Teorica: Pesquisa Basica
+GAPs: Estado da Arte
+Pesquisa: Empatia "ir a campo"
+Protocolo: Variáveos de pesquisa
+Amostra: Abrangencia

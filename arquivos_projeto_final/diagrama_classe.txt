@@ -1,0 +1,45 @@
+	DIAGRAMA DE CLASSES
+
+bairro
+	- rua
+	- cep
+	- complemento
+	- valor_entrega
+
+atendente
+	- nome
+	- email
+	- login
+	- senha
+
+cliente 
+	- nome
+	- telefone
+	- login
+	- senha
+
+admin
+	- nome
+	- login
+	- senha
+
+pedido
+	- quatidade
+	- valor_unidade
+	- valor_total
+	- observacao
+	
+cardapio
+	- nome
+	- ingrediente
+	- valor_unidade
+	- valor_total
+	- observacao
+
+bebida
+	- sabor
+	- fruto
+	- quantidade
+	- vlaor_unidade
+	
+	

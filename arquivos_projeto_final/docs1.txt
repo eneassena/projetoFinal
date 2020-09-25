@@ -1,0 +1,84 @@
+Site pastelaria
+
+pagina inicial
+
+Menu - acesso horizontal:
+	- Home
+	- A pastelaria
+	- Cardapio
+	- Pedido
+	- Contato
+	
+Menu - de serviços prestado vertical
+
+[slide]
+
+
+cardes exibe informações de lanches
+
+conteudo da pastelario informações sobre a pastelaria
+
+
+rodape
+informações 
+rede social 
+endereço
+menssagem 
+
+
+
+
+pagina pedido
+
+cliente acessará um formulario com dados para ralização de um pedido
+[formulario com informações sobre o pedido(lanche pasteis)]
+[formulario com informações sobre o pedido(sucos)]
+[
+ forma de entrega
+	- solicitar entrega
+	- nao solicitar entrega
+]
+informar ao cliente o prazo de entrega
+taxa de entrega 
+forma de entrega
+horario de funcionamento
+
+
+
+
+=========================================================================
+
+tecnologias para o projeto
+banco de dados: mysql
+front-end: bootstrap4
+back-end: javaScript, python
+
+=========================================================================
+
+
+DEFINIÇÃO DE REQUISITO:
+	- REQUISITO: condição necessária para a obtenção de certo	
+	objetivo ou para o preenchimento de certo fim
+
+REQUISITO PARA UM SISTEMA DE SOFTWARE:
+	- Descrição das funções e restrições que o produto
+	a ser desenvolvido deve possuir.
+	
+Requisitos  Funcionais X Requisitos Não Funcionais
+Funcionais: Diretamente ligados a funcinalidade do software,
+ como o sistema deve reagir a entradas específicas, como deve se comportar
+ em determinadas situações.
+	Exemplos: 
+		- Calcular o total de uma venda, capturar a informação de um formulário.
+		- Um sistema de uma loja virtual deve calcular o total da venda do produto.
+ 
+ Não funcinais: Não dizem respeito diretamente as funções específicas do sistema
+	Exemplo:
+		- Confiabilidade, tempo de resposta.
+		- Um sistema de aviação deve atender ao requisito de confiabilidade.
+	
+	
+	
+
+
+
