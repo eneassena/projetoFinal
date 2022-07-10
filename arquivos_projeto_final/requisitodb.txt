@@ -26,17 +26,4 @@ Tabelas:
 	ajuda no gerenciamento de cada venda)
 	- caixa:[OPCIONAL]:(aqui será adicionado o que foi comprado e quanto custou)
 
-Ordem de precedencia de inserts nas tabelas
-
-	insere em livraria
-	insere em afilial com id-primary de livraria
-	insere em pessoa_livraria com id-primary de livraria
-	insere atendente com id-primary de pessoa_livraria
-	insere cliente com id-primary de atendente
-	insere venda com id-primary de cliente
-	insere artigo
-	insere chamada_cliente com id-primary de cliente e id-primary artigo
-	insere produto
-	insere artigo_produto com id-primary de artigo e id-primary produto
-	insere promocoes com id-primary de produto
-=================================================================================================
+ 
